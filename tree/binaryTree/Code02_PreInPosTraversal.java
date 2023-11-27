@@ -8,7 +8,7 @@ import java.util.Stack;
  * @author wenqiang
  * @date 2023/11/27 13:26
  **/
-public class Code01_PreInPosTraversal {
+public class Code02_PreInPosTraversal {
     public static class Node {
         public int value;
         public Node left;
