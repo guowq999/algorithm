@@ -7,6 +7,8 @@ import java.util.Objects;
 import java.util.Queue;
 
 /**
+ * 二叉树的最大宽度
+ *
  * @author wenqiang
  * @date 2023/12/05 17:36
  **/
